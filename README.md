@@ -14,7 +14,7 @@ I'm Ishita.
  <br>
 
 <img align="right" >
- ![main-qimg-3c8f7c1c7d21db66fdec3f6b4203ceee](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/981faf5b-647b-47c6-ba23-dc6448b00a2e)
+![main-qimg-3c8f7c1c7d21db66fdec3f6b4203ceee](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/981faf5b-647b-47c6-ba23-dc6448b00a2e)
 
 **About Me**
 
