@@ -13,7 +13,25 @@ I'm Ishita.
  <br>
  <br>
 
-![data-analyst-career-flat-concept-spot-illustration-editable-2d-cartoon-character-on-white-for-web-design-software-engineer-optimization-data-science-creative-idea-for-website-mobile-app-vector](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/5614557a-0866-4237-8375-f0c1360081e1)
+<img align="right" alt="Coding" width="500" src="![data-analyst-career-flat-concept-spot-illustration-editable-2d-cartoon-character-on-white-for-web-design-software-engineer-optimization-data-science-creative-idea-for-website-mobile-app-vector](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/91a5a17d-2e72-4aea-8303-d2fbee1f51ea)">
+
+**About Me**
+
+ - 🌐 Aspiring to make an impact as a **Data Analyst**
+   
+ - 🔭 Currently sharpening my **Analytical skills**
+
+ - 📜 Continuously expanding skill set in the **World of Data**
+
+ - 🎯 Aiming to excel as a data-driven **Problem Solver**
+ 
+ - 👨‍💻 All of my projects are available at <strong> <a href="https://github.com/ishita-goyal-01" rel="nofollow" >GitHub</a></strong>.
+ 
+ - 📫 Contact me through <strong> <a href="https://www.linkedin.com/in/ishita-goyal-57a00b216/" rel="nofollow" >LinkedIn</a></strong>.
+
+<br>
+<br>
+<br>
 
 
 **About Me**
