@@ -30,9 +30,8 @@ I'm Ishita.
 
  - 👨‍💻 All of my projects are available at <strong> <a href="https://github.com/ishita-goyal-019" rel="nofollow" >GitHub</a></strong>.
  
- - 👨‍💻 All of my projects are available at " - 👨‍💻 All of my projects are available at <strong> <a href="https://github.com/mayurpaunikar7" rel="nofollow" >GitHub</a></strong>.9"
+- 📫 Contact me through <strong> <a href="https://www.linkedin.com/in/ishita-goyal-57a00b216/" rel="nofollow" >LinkedIn</a></strong>.
 
-- 📫 Contact me through "https://www.linkedin.com/in/ishita-goyal-57a00b216"
 
 <br>
 <br>
