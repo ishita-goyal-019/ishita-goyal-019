@@ -13,8 +13,7 @@ I'm Ishita.
  <br>
  <br>
 
-<img align="right" alt="Coding" width="500" src="![data-analyst-career-flat-concept-spot-illustration-editable-2d-cartoon-character-on-white-for-web-design-software-engineer-optimization-data-science-creative-idea-for-website-mobile-app-vector](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/91a5a17d-2e72-4aea-8303-d2fbee1f51ea)">
-
+![data-analyst-career-flat-concept-spot-illustration-editable-2d-cartoon-character-on-white-for-web-design-software-engineer-optimization-data-science-creative-idea-for-website-mobile-app-vector](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/91a5a17d-2e72-4aea-8303-d2fbee1f51ea)
 
 
 **About Me**
