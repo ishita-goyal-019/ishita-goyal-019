@@ -55,11 +55,11 @@ I'm Ishita.
 
 <h2>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Github Stats :  
-</h2
+</h2>
 
-<a href="https://github.com/ishita-goyal-019">
-<img src="https://github-readme-stats.vercel.app/api?username=ishita-goyal-019&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ishita's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-goyal-019&theme=radical&hide=glsl,python" />
+<a href="https://github.com/mayurpaunikar7">
+<img src="https://github-readme-stats.vercel.app/api?username=mayurpaunikar7&&show_icons=true&theme=radical&line_height=27&v=5" alt="Mayur's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurpaunikar7&theme=radical&hide=glsl,python" />
 
 <br>
 <br>
@@ -67,8 +67,9 @@ I'm Ishita.
 
 <h2 dir="auto"> </a> <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" > </a> <strong>Reach out to me:</strong> </h2>
 <p align="center" dir="auto">
-<a href="https://www.linkedin.com/in/ishita-goyal-57a00b216/" > <img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"  height="50" > </a>
-<a href="mailto:ishita19102001@gmail.com" > <img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67"  height="50" > </a>
+<a href="https://www.linkedin.com/in/mayur-paunikar-60b9b41ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0SlxxFynQZihvAu4W8C2pw%3D%3D" > <img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"  height="50" > </a>
+<a href="mailto:mayurpaunikar7@gmail.com" > <img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67"  height="50" > </a>
+<a href="https://www.hackerrank.com/mayurpaunikar7" > <img src="https://user-images.githubusercontent.com/137817362/266239493-4e65699f-6e11-488f-9af9-f50b54fa5a3f.png"  height="50" ></a>
   
 <br>
 
