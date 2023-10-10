@@ -13,7 +13,7 @@ I'm Ishita.
  <br>
  <br>
 
-<img align="right" alt="Coding" width="500" src="https://motionarray.imgix.net/1666255-3VvVbNw7xQ-high_0004.jpg?w=660&q=60&fit=max&auto=format">
+<img align="right" alt="Coding" width="300" src="![main-qimg-3c8f7c1c7d21db66fdec3f6b4203ceee](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/981faf5b-647b-47c6-ba23-dc6448b00a2e)">
 
 **About Me**
 
