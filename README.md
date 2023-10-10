@@ -27,8 +27,10 @@ I'm Ishita.
  - 📜 Continuously expanding skill set in the **World of Data**
 
  - 🎯 Aiming to excel as a data-driven **Problem Solver**
+
+ - 👨‍💻 All of my projects are available at <strong> <a href="https://github.com/ishita-goyal-019" rel="nofollow" >GitHub</a></strong>.
  
- - 👨‍💻 All of my projects are available at "https://github.com/ishita-goyal-019"
+ - 👨‍💻 All of my projects are available at " - 👨‍💻 All of my projects are available at <strong> <a href="https://github.com/mayurpaunikar7" rel="nofollow" >GitHub</a></strong>.9"
 
 - 📫 Contact me through "https://www.linkedin.com/in/ishita-goyal-57a00b216"
 
