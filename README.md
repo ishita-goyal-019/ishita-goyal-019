@@ -13,9 +13,9 @@ I'm Ishita.
  <br>
  <br>
 
-<img align = "left">
+<img align = "right">
   
-![main-qimg-3c8f7c1c7d21db66fdec3f6b4203ceee](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/0a69e022-a724-4ea2-8002-4fd849bc1535)>
+![data-analyst-career-flat-concept-spot-illustration-editable-2d-cartoon-character-on-white-for-web-design-software-engineer-optimization-data-science-creative-idea-for-website-mobile-app-vector](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/5ceba8a3-e120-4223-85d7-20ae0bc731c3)
 
 
 **About Me**
