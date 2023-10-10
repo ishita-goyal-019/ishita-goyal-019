@@ -13,7 +13,7 @@ I'm Ishita.
  <br>
  <br>
 
-<img align="right" >
+<h1 align = "right">
   
 ![main-qimg-3c8f7c1c7d21db66fdec3f6b4203ceee](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/0a69e022-a724-4ea2-8002-4fd849bc1535)>
 
