@@ -13,7 +13,7 @@ I'm Ishita.
  <br>
  <br>
 
-<img align = "right">
+<img align = "left">
   
 ![main-qimg-3c8f7c1c7d21db66fdec3f6b4203ceee](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/0a69e022-a724-4ea2-8002-4fd849bc1535)>
 
@@ -28,9 +28,9 @@ I'm Ishita.
 
  - 🎯 Aiming to excel as a data-driven **Problem Solver**
  
- - 👨‍💻 All of my projects are available at <strong> <a href=https://github.com/ishita-goyal-019>
+ - 👨‍💻 All of my projects are available at "https://github.com/ishita-goyal-019"
 
-- 📫 Contact me through <strong> <a href=https://www.linkedin.com/in/ishita-goyal-57a00b216>
+- 📫 Contact me through "https://www.linkedin.com/in/ishita-goyal-57a00b216"
 
 <br>
 <br>
