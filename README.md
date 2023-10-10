@@ -1,6 +1,6 @@
 <h1 align = "center">
   Hi
-  <img src="![da_gif](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/98861913-7c2f-4a87-9958-4c78dc5472fa)"> I'm Ishita
+  <img src=![da_gif](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/98861913-7c2f-4a87-9958-4c78dc5472fa)> I'm Ishita
 </h1>
 
 <h3  align = "center">
@@ -11,7 +11,7 @@
  <br>
  <br>
 
-<img align="right" alt="Coding" width="500" src="![main-qimg-3c8f7c1c7d21db66fdec3f6b4203ceee](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/0a69e022-a724-4ea2-8002-4fd849bc1535)">
+<img align="right" alt="Coding" width="500" src=![main-qimg-3c8f7c1c7d21db66fdec3f6b4203ceee](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/0a69e022-a724-4ea2-8002-4fd849bc1535)>
 
 
 **About Me**
@@ -24,9 +24,9 @@
 
  - 🎯 Aiming to excel as a data-driven **Problem Solver**
  
- - 👨‍💻 All of my projects are available at <strong> <a href="https://github.com/ishita-goyal-019"rel="nofollow" >GitHub</a></strong>.
+ - 👨‍💻 All of my projects are available at <strong> <a href=https://github.com/ishita-goyal-019/rel="nofollow" >GitHub</a></strong>.
 
-- 📫 Contact me through <strong> <a href="https://www.linkedin.com/in/ishita-goyal-57a00b216/"rel="nofollow" >LinkedIn</a></strong>.
+- 📫 Contact me through <strong> <a href=https://www.linkedin.com/in/ishita-goyal-57a00b216/rel="nofollow >LinkedIn</a></strong>.
 
 
 <br>
