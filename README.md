@@ -12,8 +12,6 @@ I'm Ishita.
  <br>
  <br>
  <br>
- 
-img align="right" alt="Coding" width="500"
 
 ![data-analyst-career-flat-concept-spot-illustration-editable-2d-cartoon-character-on-white-for-web-design-software-engineer-optimization-data-science-creative-idea-for-website-mobile-app-vector](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/5614557a-0866-4237-8375-f0c1360081e1)
 
@@ -31,7 +29,6 @@ img align="right" alt="Coding" width="500"
  - 👨‍💻 All of my projects are available at <strong> <a href="https://github.com/ishita-goyal-019" rel="nofollow" >GitHub</a></strong>.
  
 - 📫 Contact me through <strong> <a href="https://www.linkedin.com/in/ishita-goyal-57a00b216/" rel="nofollow" >LinkedIn</a></strong>.
-
 
 <br>
 <br>
@@ -57,17 +54,14 @@ img align="right" alt="Coding" width="500"
 <br>
 <br>
 
-<!--
-**ishita-goyal-019/ishita-goyal-019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Github Stats :  
+</h2
 
-Here are some ideas to get you started:
+<a href="https://github.com/ishita-goyal-019">
+<img src="https://github-readme-stats.vercel.app/api?username=ishita-goyal-019&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ishita's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-goyal-019&theme=radical&hide=glsl,python" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+<br>
