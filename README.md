@@ -2,7 +2,7 @@
   
 ![da_gif](https://github.com/ishita-goyal-019/ishita-goyal-019/assets/145800141/98861913-7c2f-4a87-9958-4c78dc5472fa) 
   
-I'm Ishita
+I'm Ishita.
 </h1>
 
 <h3  align = "center">
