@@ -33,6 +33,22 @@ I'm Ishita.
 <br>
 <br>
 
+## TECH STACK :
+
+![excel](https://img.shields.io/badge/excel-%252320232a.svg?style=for-the-badge&logo=microsoftexcel&logoColor=%252361DAFB) ![Python](https://img.shields.io/badge/python-CA4245?style=for-the-badge&logo=python&logoColor=white) ![powerbi](https://img.shields.io/badge/powerbi-%23593d88.svg?style=for-the-badge&logo=powerbi&logoColor=#F2C811) ![AWS](https://img.shields.io/badge/aws-%234ED1C5.svg?style=for-the-badge&logo=amazonaws&logoColor=#232F3E) ![ML](https://img.shields.io/badge/Machine_Learning-%234ea94b.svg?style=for-the-badge&logo=&logoColor=white)
+
+ <img src="https://img.shields.io/badge/sql-323330?style=for-the-badge&logo=mysql&logoColor=#4479A1"/> <img src="https://img.shields.io/badge/Beautiful soup-563D7C?style=for-the-badge&logo=&logoColor=white"/>  ![selenium](https://img.shields.io/badge/selenium-38B2AC?style=for-the-badge&logo=selenium&logoColor=#43B02A)<img src="https://img.shields.io/badge/pandas-339933?style=for-the-badge&logo=pandas&logoColor=#150458"/> <img src="https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=#013243"/>
+
+
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+
+<!-- <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) -->
+<!-- <a href="https://twitter.com/fullstuckVishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/fullstuckVishal" height="30" width="40" /></a> -->
+<!-- <a href="https://www.instagram.com/Sanskrutee-Dudhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/Sanskrutee-Dudhe/" height="30" width="40" /></a> -->
+</p>
+
+
 <h2 dir="auto"> <img src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" width="40" > <strong>Languages &amp; Tools:</strong></h2>
  
  <p align="center">  
